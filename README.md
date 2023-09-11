@@ -1,5 +1,37 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+# Calculadora
+
+Este es un proyecto de calculadora simple desarrollado en React-Native
+
+## Descripción del Proyecto
+
+La calculadora es una herramienta esencial en la vida cotidiana y en el desarrollo de software. Este proyecto se creó con el propósito de proporcionar una calculadora funcional y fácil de usar que se puede integrar en otros proyectos o utilizarse de forma independiente.
+
+## Características
+
+- Operaciones matemáticas básicas como suma, resta, multiplicación y división.
+- Interfaz de usuario intuitiva y fácil de usar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
